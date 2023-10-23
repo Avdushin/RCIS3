@@ -1,0 +1,10 @@
+C:\Users\avdus\source\repos\LrPr3\bin\Debug\LrPr3.exe.config
+C:\Users\avdus\source\repos\LrPr3\bin\Debug\LrPr3.exe
+C:\Users\avdus\source\repos\LrPr3\bin\Debug\LrPr3.pdb
+C:\Users\avdus\source\repos\LrPr3\obj\Debug\LrPr3.csproj.AssemblyReference.cache
+C:\Users\avdus\source\repos\LrPr3\obj\Debug\LrPr3.Form1.resources
+C:\Users\avdus\source\repos\LrPr3\obj\Debug\LrPr3.Properties.Resources.resources
+C:\Users\avdus\source\repos\LrPr3\obj\Debug\LrPr3.csproj.GenerateResource.cache
+C:\Users\avdus\source\repos\LrPr3\obj\Debug\LrPr3.csproj.CoreCompileInputs.cache
+C:\Users\avdus\source\repos\LrPr3\obj\Debug\LrPr3.exe
+C:\Users\avdus\source\repos\LrPr3\obj\Debug\LrPr3.pdb
